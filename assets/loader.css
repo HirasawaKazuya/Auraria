@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Ubuntu-Regular';
+  src: url('assets/Ubuntu-Regular.ttf') format('ttf');
+}
+
 body {
-  background-color: #161717
+  background-color: #161717;
+  font-family: 'Ubuntu-Regular';
+  color: #fafafa;
 }
