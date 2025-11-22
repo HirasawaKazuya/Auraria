@@ -10,7 +10,8 @@ body {
 }
 
 div.auraria-item {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: absolute;
+  top: 50%;
+  left: 50%;
+  transition: translate(-50%, -50%)
 }
