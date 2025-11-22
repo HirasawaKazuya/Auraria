@@ -16,6 +16,6 @@ div.auraria-item {
   transform: translate(-50%, -50%);
 }
 
-div.auraria-message {
+img.auraria-message {
   filter: contrast(0);
 }
