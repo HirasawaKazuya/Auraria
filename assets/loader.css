@@ -18,4 +18,5 @@ div.auraria-item {
 
 img.auraria-message {
   filter: contrast(0);
+  width: 75px;
 }
