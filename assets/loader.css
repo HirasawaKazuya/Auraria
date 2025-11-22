@@ -8,3 +8,9 @@ body {
   font-family: 'Ubuntu-Regular', sans-serif;
   color: #fafafa;
 }
+
+div.auraria-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
